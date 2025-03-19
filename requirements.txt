@@ -1,0 +1,23 @@
+langchain==0.2.10
+langchain-openai==0.1.17
+python-dotenv==1.0.1
+langchain-groq==0.1.6
+langchain-community==0.2.10
+
+
+//for web scrapping reading webpages
+bs4==0.0.2
+unstructured==0.15.0
+
+// to extract the text from the pdf
+pypdf==4.3.1
+
+wikipedia==1.4.0
+
+
+//vector database
+langchain-chroma==0.1.2
+
+langserve==0.2.2
+
+langgraph
